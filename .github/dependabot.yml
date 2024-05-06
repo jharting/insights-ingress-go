@@ -5,5 +5,5 @@ updates:
     schedule:
       interval: "daily"
     groups:
-      base-image-version-updates:
-        applies-to: version-updates
+      base-image:
+        dependency-type: "production"
