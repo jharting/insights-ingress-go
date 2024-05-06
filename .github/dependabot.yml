@@ -7,5 +7,6 @@ updates:
     groups:
       base-image:
         dependency-type: "production"
+
     commit-message:
       prefix: "[base image] "
