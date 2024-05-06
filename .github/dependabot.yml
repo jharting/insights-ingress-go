@@ -8,4 +8,4 @@ updates:
       base-image:
         dependency-type: "production"
     commit-message:
-      prefix: "Base image"
+      prefix: "[base image] "
